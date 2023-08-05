@@ -1,0 +1,16 @@
+
+.screen{
+    background-color: #FFC3A1;
+    /* height: 950px;
+    width: 1900px; */
+
+	width: 80%;
+	border-radius: 30px;
+	box-shadow: 0 5px 5px rgba(0,0,0,.4);
+	margin: 7em auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}

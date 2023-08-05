@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+.SmileText{
+    /* padding-right: 200px; */
+    font-family: 'Merienda', cursive;
+    font-size: 3em;
+    background-image: linear-gradient(to left, #F0997D, #A75D5D, black);
+    background-clip: text;
+    color: transparent;
+}
